@@ -1,13 +1,8 @@
-# Sample Hardhat Project
-
-This project demonstrates a basic Hardhat use case. It comes with a sample contract, a test for that contract, and a Hardhat Ignition module that deploys that contract.
-
-Try running some of the following tasks:
-
-```shell
-npx hardhat help
-npx hardhat test
-REPORT_GAS=true npx hardhat test
-npx hardhat node
-npx hardhat ignition deploy ./ignition/modules/Lock.js
-```
+1. Create a repository on GitHub.
+2. Copy the code and save it as Task1.sh (or any name you prefer).
+3. Open [Gitpod](https://gitpod.io/) and paste your repository link.
+4. Run the code with: chmod +x Task1.sh && ./Task1.sh.
+5. Select JavaScript, then press enter, y, y.
+6. After everything is complete, push your files with: git add . && git commit -m "feat: initiated the project" && git push origin main.
+7. Submit your repository link to the Swisstronik website.
+8. Done!
