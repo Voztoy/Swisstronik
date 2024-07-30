@@ -12,7 +12,7 @@ git add . && git commit -m "feat: initiated the project" && git push origin main
 7. Submit your repository link to the Swisstronik website.
 8. Done!
    
-Task 2 MINT 100 ERC-20 TOKENS
+Task 2 - 6
 
 1. Create a repository on GitHub.
 2. Copy the code and save it as Task2.sh (or any name you prefer).
